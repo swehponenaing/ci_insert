@@ -1,0 +1,9 @@
+// localhost/folder/controller/method/id
+// Using Template -> base_url()
+
+Controller (Main.php)
+
+index()
+	->view()
+	->website
+	
